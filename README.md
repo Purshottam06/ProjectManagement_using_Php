@@ -1,8 +1,8 @@
 # Project-Management-System
-Project Management System in PHP is a platform from which employees and managers can use for collaboration and communication.
+Project Management System is a platform from which employees and managers can use for collaboration and communication.
 
 Prerequisite:
-For using this project you have to create a database using 'pms_project.sql' file.
+For using this project user have to create a database using 'pms_project.sql' file.
 
 User can perform the following operations:
 - Add new user
